@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my project site.
 
-You can use the [editor on GitHub](https://github.com/yrkim1998/My-Projects/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is where I will post code that I have created, solutions to class projects and other related material.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My projects are backed on [GitHub](https://github.com/) and this site is coded in ruby and built with [Jekyll](https://jekyllrb.com/).
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Neural Network Toolkit + GUI.
 
-```markdown
-Syntax highlighted code block
+My neural network toolkit is a revised version of a University of Washington professor's matlab script to simulate single, leaky integrate-and-fire neurons. This toolkit enables connections between neurons to simulate neural networks and more novel methods of analysis for these networks.
 
-# Header 1
-## Header 2
-### Header 3
+Both the script for the graphical interface and the simulation script must be downloaded as data analysis takes part on both front and back end.
 
-- Bulleted
-- List
+[Simulation Script](
+[GUI](
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yrkim1998/My-Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
